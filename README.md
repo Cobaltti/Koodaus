@@ -1,2 +1,0 @@
-# Koodaus
-Koodataan hiki otsalla
